@@ -1,0 +1,31 @@
+.a{
+    width: 400px;
+    height: 200px;
+    background: green;
+    margin: 100px 400px;
+    position: relative;
+
+}
+.b{
+    width: 100px;
+    height: 100px;
+    background: darkred;
+    border-radius: 50%;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%,-50%);
+    position: absolute;
+}
+.c{
+    width: 20px;
+    height: 700px;
+    background: black;
+
+}
+.d{
+    width: 50px;
+    height: 20px;
+    margin-left: -10px;
+    background: grey;
+
+}
